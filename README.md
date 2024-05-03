@@ -119,8 +119,5 @@ influence kids like they’ve influenced me,” Moranchel said.</i></p>
                 </td>
             </tr>
         </tbody></table>
-
         </div>
-    
-
 </body></html>
